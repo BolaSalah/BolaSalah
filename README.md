@@ -14,7 +14,8 @@
 
 
 ### Glad to see you here!  
-#### front-end developer with more than 1 year of experience in building responsive and user-friendly websites , creating engaging user interfaces, Expertise in Front-End Technologies: From vanilla JavaScript to cutting-edge frameworks with React.js  
+#### junior front-end developer with over a year of experience building responsive and user-friendly websites, I specialize in creating engaging user interfaces. I am apply my skills and expertise to contribute to innovative projects, while continuously learning and growing in the field of web development
+
   
 
 <br/>  
@@ -23,8 +24,6 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on (my portofolio)  
-  
 
 - 🌱 I’m currently learning next js and design patterns  
   
