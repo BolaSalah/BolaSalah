@@ -25,11 +25,10 @@
 <table><tr><td valign="top" width="50%">
 
 
-- 🌱 I’m currently learning next js and design patterns  
+- 🌱 I’m currently learning Jest for testing and Next.js 
   
 
-- ❓ Ask me about anything related to react js and related front end development  
-
+- ❓ Ask me about anything related to react js and front end development  
 
 </td></tr></table>  
 
