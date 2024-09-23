@@ -14,8 +14,7 @@
 
 
 ### Glad to see you here!  
-#### junior front-end developer with over a year of experience building responsive and user-friendly websites, I specialize in creating engaging user interfaces. I am apply my skills and expertise to contribute to innovative projects, while continuously learning and growing in the field of web development
-
+#### Front-end developer with over a year of experience building responsive and user-friendly websites, I specialize in creating engaging user interfaces. I am apply my skills and expertise to contribute to innovative projects, while continuously learning and growing in the field of web development
   
 
 <br/>  
