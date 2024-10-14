@@ -14,7 +14,7 @@
 
 
 ### Glad to see you here!  
-#### Front-end developer with over a year of experience building responsive and user-friendly websites, I specialize in creating engaging user interfaces. I am apply my skills and expertise to contribute to innovative projects, while continuously learning and growing in the field of web development
+#### 🌟 Front-End Developer 🌟 with over 1 year of experience building responsive and user-friendly websites, and creating engaging user interfaces. Expertise in Front-End Technologies: From vanilla JavaScript to cutting-edge frameworks with React.js and Next.js.
   
 
 <br/>  
@@ -24,10 +24,11 @@
 <table><tr><td valign="top" width="50%">
 
 
-- 🌱 I’m currently learning Jest for testing and Next.js 
+- 🌱 I’m currently a Frontend Developer at DataSoft Company.
   
+- 🌱 Now learning Jest for testing and Next.js.
 
-- ❓ Ask me about anything related to react js and front end development  
+- ❓ Ask me about anything related to react js and front end development!
 
 </td></tr></table>  
 
