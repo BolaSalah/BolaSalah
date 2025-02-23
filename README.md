@@ -1,6 +1,5 @@
 ## <div align="center">Hey 👋, I'm Bola Salah</div>  
 
-
   
 <div align="center">
 <a href="https://linkedin.com/in/bola-salah" target="_blank">
@@ -47,7 +46,6 @@
 <a href="https://mui.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="40" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" /></a>  
 <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
-<a href="https://jestjs.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jest.png" alt="Jest" height="40" /></a>  
 </div>  
 
 ---
@@ -76,3 +74,5 @@
 📧 [Email](mailto:bolasalah1999@example.com) | 🌐 [LinkedIn](https://linkedin.com/in/bola-salah) | 🔵 [Facebook](https://www.facebook.com/Bolasalah99)
 
 🚀 _Always open to collaborations and new opportunities!_
+
+![Profile Views](https://komarev.com/ghpvc/?username=BolaSalah&label=Profile%20Views&color=blue&style=flat)
