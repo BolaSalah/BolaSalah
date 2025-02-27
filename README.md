@@ -73,8 +73,6 @@
 ---
 
 ## 🤝 Let's Connect  
-💬 Reach out to me via:  
-📧 [Email](mailto:bolasalah1999@example.com) | 🌐 [LinkedIn](https://linkedin.com/in/bola-salah) | 🔵 [Facebook](https://www.facebook.com/Bolasalah99)
 
 🚀 _Always open to collaborations and new opportunities!_
 
