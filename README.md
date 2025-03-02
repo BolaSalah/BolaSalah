@@ -51,7 +51,7 @@
 ---
 
 ## 🏆 Featured Projects  
-🎨 [**Portfolio Website**](https://github.com/BolaSalah/portfolio) - My personal portfolio built with Next.js  
+🎨 [**Portfolio Website**](https://portfolio-delta-two-55.vercel.app/) - My personal portfolio built with Next.js  
 
 [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=BolaSalah&repo=portfolio&theme=tokyonight)](https://github.com/BolaSalah/portfolio)
 
