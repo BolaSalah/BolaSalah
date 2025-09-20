@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 Glad to see you here!  
-#### 🌟 Front-End Developer 🌟 with over 1 year of experience in building responsive, high-performance, and engaging web applications. Passionate about React.js, Next.js, and creating seamless user experiences.
+#### 🌟 Front-End Developer 🌟 with over 2 year of experience in building responsive, high-performance, and engaging web applications. Passionate about React.js, Next.js, and creating seamless user experiences.
 
 🌍 **I love building** scalable and modern web applications. Always learning and staying updated with the latest in front-end development!
 
