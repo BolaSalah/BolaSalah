@@ -1,13 +1,15 @@
 ## <div align="center">Hey 👋, I'm Bola Salah</div>  
-
   
 <div align="center">
 <a target="_blank" href="https://linkedin.com/in/bola-salah" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+ <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/Bolasalah99" target="_blank">
-<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" />
+ <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" />
 </a>  
+<a href="https://drive.google.com/file/d/1-CNUx0eHGbyKnlc41mEejSRC6XEdIemJ/view" target="_blank">
+ <img src="https://img.shields.io/badge/View%20CV-%232E87FB.svg?&style=for-the-badge&logo=googledrive&logoColor=white" alt="View CV" style="margin-bottom: 5px;" />
+</a>
 </div>  
 
 ---
@@ -67,7 +69,7 @@
 ---
 
 ## 📈 Streaks 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BolaSalah&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://camo.githubusercontent.com/8c4348391ae2b2b8cb3242b68ae569863ceb3d35c375117083a2fea38b4b5bc3/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d426f6c6153616c6168267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565)  
 
 ---
 
