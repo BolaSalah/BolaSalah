@@ -28,7 +28,7 @@ Passionate about **React.js, Next.js**, and crafting clean, maintainable UI solu
 ---
 
 ## ⚡ Quick Facts
-- 🔭 **Currently:** Frontend Developer at **DataSoft**
+- 🔭 **Currently:** Frontend Developer at **DataSoft Company**
 - 🌱 **Learning:** Advanced React patterns
 - 💬 **Ask me about:** React, performance optimization, UI/UX
 - 🎯 **2026 Goal:** Learn German and master React Active patterns
