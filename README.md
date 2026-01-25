@@ -2,12 +2,15 @@
 
 <div align="center">
 <a href="https://linkedin.com/in/bola-salah" target="_blank">
+ <!-- LinkedIn badge -->
  <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/Bolasalah99" target="_blank">
+ <!-- Facebook badge -->
  <img src="https://img.shields.io/badge/Facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://drive.google.com/file/d/1-CNUx0eHGbyKnlc41mEejSRC6XEdIemJ/view" target="_blank">
+ <!-- CV badge -->
  <img src="https://img.shields.io/badge/View%20CV-%234285F4.svg?&style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 </div>
@@ -24,6 +27,14 @@ Passionate about **React.js, Next.js**, and crafting clean, maintainable UI solu
 
 ---
 
+## ⚡ Quick Facts
+- 🔭 **Currently:** Frontend Developer at **DataSoft**
+- 🌱 **Learning:** Advanced React patterns
+- 💬 **Ask me about:** React, performance optimization, UI/UX
+- 🎯 **2026 Goal:** Learn German and master React Active patterns
+
+---
+
 ## 🧰 Tech Stack
 **Frontend:** React.js, Next.js, TypeScript  
 **Styling:** Tailwind CSS, Material UI  
@@ -33,16 +44,9 @@ Passionate about **React.js, Next.js**, and crafting clean, maintainable UI solu
 
 ---
 
-## ⚡ Quick Facts
-- 🔭 **Currently:** Frontend Developer at **DataSoft**
-- 🌱 **Learning:** Advanced React patterns
-- 💬 **Ask me about:** React, performance optimization, UI/UX
-- 🎯 **2026 Goal:** Learn German and master React Active patterns
-
----
-
 ## 🛠️ Languages & Tools
 <div align="center">
+<!-- Skill icons: may fail if profilinator service down -->
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" />
 <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="40" />
 <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" />
@@ -62,12 +66,16 @@ Personal portfolio website showcasing skills and projects with **responsive desi
 
 ---
 
+<!-- GitHub Streak: may fail if vercel app down -->
+<!--
 ## 📈 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BolaSalah&theme=tokyonight&hide_border=true)
+-->
 
 ---
 
 ## 🤝 Let's Connect
 🚀 Always open to collaborations, freelance work, and new opportunities.
 
+<!-- Profile Views badge -->
 ![Profile Views](https://komarev.com/ghpvc/?username=BolaSalah&label=Profile%20Views&color=blue)
