@@ -1,82 +1,73 @@
-## <div align="center">Hey 👋, I'm Bola Salah</div>  
-  
+## <div align="center">Hey 👋, I'm Bola Salah</div>
+
 <div align="center">
-<a target="_blank" href="https://linkedin.com/in/bola-salah" target="_blank">
- <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/bola-salah" target="_blank">
+ <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/Bolasalah99" target="_blank">
- <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" />
-</a>  
-<a href="https://drive.google.com/file/d/1-CNUx0eHGbyKnlc41mEejSRC6XEdIemJ/view" target="_blank">
- <img src="https://img.shields.io/badge/View%20CV-%232E87FB.svg?&style=for-the-badge&logo=googledrive&logoColor=white" alt="View CV" style="margin-bottom: 5px;" />
+ <img src="https://img.shields.io/badge/Facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-</div>  
+<a href="https://drive.google.com/file/d/1-CNUx0eHGbyKnlc41mEejSRC6XEdIemJ/view" target="_blank">
+ <img src="https://img.shields.io/badge/View%20CV-%234285F4.svg?&style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+</div>
 
 ---
 
-### 🚀 Glad to see you here!  
-#### 🌟 Front-End Developer 🌟 with over 2 year of experience in building responsive, high-performance, and engaging web applications. Passionate about React.js, Next.js, and creating seamless user experiences.
+### 🚀 Glad to see you here!
+#### 🌟 Front-End Developer with 2+ years of experience
 
-🌍 **I love building** scalable and modern web applications. Always learning and staying updated with the latest in front-end development!
+I specialize in building **scalable, high-performance, and user-friendly web applications** using modern frontend technologies.  
+Passionate about **React.js, Next.js**, and crafting clean, maintainable UI solutions.
 
-📌 **Tech Stack**: React.js | Next.js | TypeScript | Tailwind | Redux | Jest | Firebase
-
-💡 **Interests**: Performance optimization, UI/UX design
-
----
-
-## 🚀 Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 **Currently working at**: DataSoft as a Frontend Developer.  
-- 🌱 **Learning**: Jest for testing & Next.js.  
-- 💡 **Ask me about**: React.js, performance optimization, and UI/UX best practices!  
-- 🎯 **Goal for 2025**: Master advanced React patterns & contribute to open source.  
-- ⚡ **Fun Fact**: I love coffee ☕ and coding at night!  
-
-</td></tr></table>  
+🌍 Always learning, always improving, and staying up-to-date with modern frontend best practices.
 
 ---
 
-## 🛠️ Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="40" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" /></a>  
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>  
-<a href="https://mui.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="40" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" /></a>  
-<a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
-</div>  
+## 🧰 Tech Stack
+**Frontend:** React.js, Next.js, TypeScript  
+**Styling:** Tailwind CSS, Material UI  
+**State Management:** Redux  
+**Testing:** Jest  
+**Tools:** Git, Firebase
 
 ---
 
-## 🏆 Featured Projects  
-🎨 [**Portfolio Website**](https://bolasalah.online) - My personal portfolio built with Next.js  
-
-
-
-
-
-<!-- 
----
-## 📊 Github Stats  
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=BolaSalah&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolaSalah&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
-</td></tr></table>   -->
+## ⚡ Quick Facts
+- 🔭 **Currently:** Frontend Developer at **DataSoft**
+- 🌱 **Learning:** Advanced React patterns
+- 💬 **Ask me about:** React, performance optimization, UI/UX
+- 🎯 **2026 Goal:** Learn German and master React Active patterns
 
 ---
 
-## 📈 Streaks 
-![GitHub Streak](https://camo.githubusercontent.com/8c4348391ae2b2b8cb3242b68ae569863ceb3d35c375117083a2fea38b4b5bc3/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d426f6c6153616c6168267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565)  
+## 🛠️ Languages & Tools
+<div align="center">
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40" />
+</div>
 
 ---
 
-## 🤝 Let's Connect  
+## 🏆 Featured Project
+🎨 **[Portfolio Website](https://bolasalah.online)**  
+Personal portfolio website showcasing skills and projects with **responsive design**, smooth animations, and **multilingual support**.  
 
-🚀 _Always open to collaborations and new opportunities!_
+**Technologies & Features:** React, Tailwind CSS, MUI, Framer Motion, GSAP, i18next, interactive filtering.
 
-![Profile Views](https://komarev.com/ghpvc/?username=BolaSalah&label=Profile%20Views&color=blue&style=flat)
+---
+
+## 📈 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BolaSalah&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+🚀 Always open to collaborations, freelance work, and new opportunities.
+
+![Profile Views](https://komarev.com/ghpvc/?username=BolaSalah&label=Profile%20Views&color=blue)
