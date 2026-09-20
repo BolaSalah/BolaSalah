@@ -9,8 +9,8 @@
  <!-- Facebook badge -->
  <img src="https://img.shields.io/badge/Facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
+  <!-- CV badge  -->
 <!-- <a href="https://drive.google.com/file/d/1-CNUx0eHGbyKnlc41mEejSRC6XEdIemJ/view" target="_blank">
- <!-- CV badge -->
  <img src="https://img.shields.io/badge/View%20CV-%234285F4.svg?&style=for-the-badge&logo=googledrive&logoColor=white" />
 </a> -->
 </div>
