@@ -18,7 +18,7 @@
 ---
 
 ### 🚀 Glad to see you here!
-#### 🌟 Front-End Developer with 2+ years of experience
+#### 🌟 Front-End Developer with 3+ years of experience
 
 I specialize in building **scalable, high-performance, and user-friendly web applications** using modern frontend technologies.  
 Passionate about **React.js, Next.js**, and crafting clean, maintainable UI solutions.
