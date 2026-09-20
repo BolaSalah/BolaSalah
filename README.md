@@ -9,10 +9,10 @@
  <!-- Facebook badge -->
  <img src="https://img.shields.io/badge/Facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://drive.google.com/file/d/1-CNUx0eHGbyKnlc41mEejSRC6XEdIemJ/view" target="_blank">
+<!-- <a href="https://drive.google.com/file/d/1-CNUx0eHGbyKnlc41mEejSRC6XEdIemJ/view" target="_blank">
  <!-- CV badge -->
  <img src="https://img.shields.io/badge/View%20CV-%234285F4.svg?&style=for-the-badge&logo=googledrive&logoColor=white" />
-</a>
+</a> -->
 </div>
 
 ---
@@ -59,7 +59,7 @@ Passionate about **React.js, Next.js**, and crafting clean, maintainable UI solu
 ---
 
 ## 🏆 Featured Project
-🎨 **[Portfolio Website](https://bolasalah.online)**  
+🎨 **[Portfolio Website](https://bolasalah.site)**  
 Personal portfolio website showcasing skills and projects with **responsive design**, smooth animations, and **multilingual support**.  
 
 **Technologies & Features:** React, Tailwind CSS, MUI, Framer Motion, GSAP, i18next, interactive filtering.
